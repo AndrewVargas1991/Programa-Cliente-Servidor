@@ -1,0 +1,17 @@
+Instruções de uso dos programas Cliente e Servidor
+
+1- Abra o programa "Servidor.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Abra o programa "Cliente.py" com o interpretador do Python;
+
+3- Selecione o arquivo que deseja enviar para o servidor e clique em "Abrir".
+
+OS: Uma imagem chamada "Windows 7 Wallpaper.jpg" encontra-se na pasta "Cliente" e foi colocada ali
+para que o usuário possa testar o envio com ela.
+
+2ª OBS: Você pode enviar qualquer tipo de arquivo com o programa "Cliente.py", mas o servidor está
+programado para salvá-lo com a extensão *.jpg.
+
+IMPORTANTE: Se tudo foi feito corretamente, uma cópia (chamada de "Cópia.jpg") do arquivo selecionado 
+será salva na pasta chamada de "Servidor".
