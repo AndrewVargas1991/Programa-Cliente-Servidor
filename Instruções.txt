@@ -1,9 +1,9 @@
 Instruções de uso dos programas Cliente e Servidor
 
-1- Abra o programa "Servidor.py" com o interpretador do Python;
+1- Abra o programa "Servidor.py" (que está dentro da pasta Servidor) com o interpretador do Python;
 OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
 
-2- Abra o programa "Cliente.py" com o interpretador do Python;
+2- Abra o programa "Cliente.py" (que está dentro da pasta Cliente) com o interpretador do Python;
 
 3- Selecione o arquivo que deseja enviar para o servidor e clique em "Abrir".
 
