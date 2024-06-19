@@ -2,7 +2,7 @@
 
 - Programas para enviar arquivo do cliente para o servidor.
 
-- Tela do Servidor para escolher ouvir (aguardar o cliente).
+- Tela do Servidor para ouvir (aguardar o cliente).
 
 ![Screenshot](https://github.com/AndrewVargas1991/Programa-Cliente-Servidor/blob/main/imagens/Tela%20Servidor.png)
 
